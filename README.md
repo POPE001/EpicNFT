@@ -13,6 +13,7 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+[I'm an inline-style link](https://www.google.com)
 
 To run the website, visit https://nft-starter-project.adeonioluwamayo.repl.co/
 
